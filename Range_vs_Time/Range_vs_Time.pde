@@ -1,3 +1,8 @@
+/*
+Jialun Bao
+10/29/2015
+*/
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import javax.swing.*; 
